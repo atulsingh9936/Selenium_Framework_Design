@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ…³•8şÔÌøÒ2J$441f97d8-9841-44bd-88fd-f47cf6d6828a
+¤
+java:S1488,"\Immediately return this expression instead of assigning it to the temporary variable "prod".(ÿÔØÀıÿÿÿÿ8şÔÌøÒ2J$2f56ab2f-2d7d-445e-a08f-1de53570c5a1
+œ	java:S116""URename this field "ProductsBy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó ìÖúÿÿÿÿ8şÔÌøÒ2J$aba958ec-c209-4a50-a06e-37685aa18a85
+{
+java:S2387"8"driver" is the name of a field in "Abstract_Component".(æ¹•‹8ÄùÓ2J$2d0635d0-e668-4f91-9de9-2db9459b9c06
+~	java:S125"<This block of commented-out lines of code should be removed.(Ëé ‡8şÔÌøÒ2J$b9d5ad9b-be23-453a-85e3-34e8efe5858a
+–
+java:S1128	"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ÄùÓ2J$d892413b-1cee-40d2-88ba-76e63aef77a5

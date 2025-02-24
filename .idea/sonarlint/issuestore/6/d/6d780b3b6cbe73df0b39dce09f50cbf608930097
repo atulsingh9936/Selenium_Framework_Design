@@ -1,0 +1,9 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ…³•J$9e00cf94-9e48-43bd-8288-66621453002b
+™
+java:S1488 "]Immediately return this expression instead of assigning it to the temporary variable "match".(óùš¯J$02c9b79a-7883-4804-bc4b-7aafc7a1e07d
+™	java:S116"WRename this field "ProductNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‹ƒÔ8äµ¹–Ó2J$0f56f79c-deca-404a-9243-b896db5432c4
+t
+java:S2387"8"driver" is the name of a field in "Abstract_Component".(æ¹•‹J$75340a8a-75f6-4c01-b695-92dc6e375c1a
+w	java:S125"<This block of commented-out lines of code should be removed.(‹ÁÒJ$2b8d3b66-423e-4f76-82d3-239ebdac1f9b
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ç×ùÿÿÿÿJ$cf9223e7-80c9-4ef2-8107-43a94562e979

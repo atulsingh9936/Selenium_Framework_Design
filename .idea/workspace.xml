@@ -4,20 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0886ade-9b8f-4dd8-86e8-1493f6099620" name="Changes" comment="" />
+    <list default="true" id="b0886ade-9b8f-4dd8-86e8-1493f6099620" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09a5aab50cacbbaeaef1abee8e355f768f933400" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84e37349ec0a2795ef52705420043a24f7dc70d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87265c4507858d60856dec95cbdf393720ff3959" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db648dbaad0b8e9e69fc839500fdccfa85969729" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddc7083fe83dfea4c63507b07254caf2f9f5f45f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09a5aab50cacbbaeaef1abee8e355f768f933400" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84e37349ec0a2795ef52705420043a24f7dc70d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/7/87265c4507858d60856dec95cbdf393720ff3959" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db648dbaad0b8e9e69fc839500fdccfa85969729" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/ddc7083fe83dfea4c63507b07254caf2f9f5f45f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract_components/Abstract_Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Cartpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Checkout_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/ConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Landing_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Orderpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/ProductCatalogue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/GlobalData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/PuchaseOrder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test_components/Base_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test_components/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test_components/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/Error_validation_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/Standalone_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/submit_order_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSuites/ErrorvalidationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSuites/Purchase.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2tMQiNAZ8vgGToYUsSihpDZZpmd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -25,12 +72,104 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Standalone_Test.executor": "Run",
+    "Application.submit_order_Test.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml.executor": "Run",
+    "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/Purchase.xml.executor": "Run",
+    "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml.executor": "Run",
+    "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml.executor": "Run",
+    "TestNG.Error_validation_Test.executor": "Run",
+    "TestNG.Error_validation_Test.submitorder.executor": "Run",
+    "TestNG.submit_order_Test.executor": "Run",
+    "TestNG.submit_order_Test.submitorder.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Atul\IdeaProjects\Selenium_Framework_Design\testSuites" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Atul\IdeaProjects\Selenium_Framework_Design\testSuites" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Page_objects" />
+      <recent name="selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml">
+    <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Framework_Design" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testSuites/ErrorvalidationTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/Purchase.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Framework_Design" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testSuites/Purchase.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Framework_Design" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testSuites/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Framework_Design" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="submit_order_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Framework_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.submit_order_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/Purchase.xml" />
+        <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml" />
+        <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml" />
+        <item itemvalue="TestNG.submit_order_Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,5 +180,16 @@
       <updated>1740159592848</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

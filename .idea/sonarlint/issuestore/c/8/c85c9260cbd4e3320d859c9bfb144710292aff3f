@@ -1,0 +1,20 @@
+
+Ô
+java:S3577"Rename class "submit_order_Test" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(¹íò8®Œ°Ó2J$ed913f35-9d59-4558-a08d-ea9370a4df20
+„
+java:S1854"<Remove this useless assignment to local variable "products".(¬àÁïùÿÿÿÿ8®Œ°Ó2J$266af44f-2b9a-40bf-af5e-8ee28159d2a2
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıï¶8¯Œ°Ó2J$362aff6d-2892-41f5-b43d-eb52c10f51b9
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ú‰Åüÿÿÿÿ8¯Œ°Ó2J$2598ed79-f6d5-4b76-ba0f-6a0f7b00eefe
+u
+java:S1481"-Remove this unused "products" local variable.(¬àÁïùÿÿÿÿ8¯Œ°Ó2J$4cbd76fd-bfc6-49d8-ba1d-0812ba0f9fc8
+ƒ	java:S125?"<This block of commented-out lines of code should be removed.(ØÆèüÿÿÿÿ8°Œ°Ó2J$69b78d12-d8cf-4c0b-9e4c-131a11a6e484
+~	java:S125L"<This block of commented-out lines of code should be removed.(Ú°à¬8°Œ°Ó2J$1f67288f-40ac-4c98-abc4-debe598f301e
+
+java:S1128"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´8ŸÇ¤ÆÓ2J$faaf50cc-8807-4dd1-8d57-b9d2e8799c0a
+ƒ
+java:S1128";Remove this unused import 'org.openqa.selenium.OutputType'.(Ğ³—õıÿÿÿÿ8ŸÇ¤ÆÓ2J$d0848310-ec12-457b-ac75-d703d6c00e9a
+ˆ
+java:S1128"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ8ŸÇ¤ÆÓ2J$ee22d41a-6636-408a-9bd3-6d4ae41126af
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ŸÇ¤ÆÓ2J$40b33e17-1884-4616-90db-c34e7893d8af

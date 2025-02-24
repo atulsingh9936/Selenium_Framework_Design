@@ -1,0 +1,11 @@
+
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§Ø­ì8ƒªğ“Ó2J$42a2f594-6a38-4d14-b91a-c63879ec39a8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ…³•8…ªğ“Ó2J$0288ea3e-a651-41ea-82ff-615fed3e8432
+¤
+java:S1488("aImmediately return this expression instead of assigning it to the temporary variable "catalogue".(ßôˆ8…ªğ“Ó2J$618b8ed5-b908-4673-b93e-ccae91e18aa6
+{
+java:S2387
+"8"driver" is the name of a field in "Abstract_Component".(æ¹•‹8†ªğ“Ó2J$55ecadb7-4a6b-43f5-aedd-3f5fa16fa24b
+~	java:S125"<This block of commented-out lines of code should be removed.(‹ÁÒ8†ªğ“Ó2J$cb5c8eda-9a83-4271-8abb-1a2ccc8a8a54
+•	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷Î¢ıÿÿÿÿ8†ªğ“Ó2J$36177723-53a2-4070-9161-d09c8062dec2
+•	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ìµüÿÿÿÿ8†ªğ“Ó2J$30d4bb06-3fd0-452f-aefd-e1201e306eb1
