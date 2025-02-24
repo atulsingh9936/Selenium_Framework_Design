@@ -4,44 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0886ade-9b8f-4dd8-86e8-1493f6099620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09a5aab50cacbbaeaef1abee8e355f768f933400" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84e37349ec0a2795ef52705420043a24f7dc70d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87265c4507858d60856dec95cbdf393720ff3959" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db648dbaad0b8e9e69fc839500fdccfa85969729" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddc7083fe83dfea4c63507b07254caf2f9f5f45f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09a5aab50cacbbaeaef1abee8e355f768f933400" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84e37349ec0a2795ef52705420043a24f7dc70d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/7/87265c4507858d60856dec95cbdf393720ff3959" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db648dbaad0b8e9e69fc839500fdccfa85969729" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/ddc7083fe83dfea4c63507b07254caf2f9f5f45f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract_components/Abstract_Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Cartpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Checkout_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/ConfirmationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Landing_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Orderpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page_objects/ProductCatalogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/ExtentReporterNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/GlobalData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Data/PuchaseOrder.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_components/Base_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_components/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_components/Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/Error_validation_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/Standalone_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/submit_order_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testSuites/ErrorvalidationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testSuites/Purchase.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="b0886ade-9b8f-4dd8-86e8-1493f6099620" name="Changes" comment="selenium framework code">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66f15ff93ea327a9fe2feb03860de37da9f34000" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66f15ff93ea327a9fe2feb03860de37da9f34000" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Loginerrorvalidation.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Loginerrorvalidation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test_components/Base_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_components/Base_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +46,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml.executor": "Run",
     "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/Purchase.xml.executor": "Run",
     "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml.executor": "Run",
@@ -179,6 +149,15 @@
       <option name="presentableId" value="Default" />
       <updated>1740159592848</updated>
     </task>
+    <task id="LOCAL-00001" summary="selenium framework code">
+      <option name="closed" value="true" />
+      <created>1740422811651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740422811651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,5 +170,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium framework code" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium framework code" />
   </component>
 </project>
