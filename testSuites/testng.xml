@@ -4,12 +4,12 @@
     <listeners>
         <listener class-name="Test_components.Listener"/>
     </listeners>
-    <test verbose="2" preserve-order="true" name="Submit orderTest">
+    <test thread-count="5" name="Submit orderTest">
         <classes>
             <class name="selenium.submit_order_Test"/>
         </classes>
     </test>
-    <test verbose="2" preserve-order="true" name="Error validation Test">
+    <test thread-count="5" name="Error validation Test">
         <classes>
             <class name="selenium.Error_validation_Test"/>
         </classes>

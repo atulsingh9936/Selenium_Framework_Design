@@ -6,9 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b0886ade-9b8f-4dd8-86e8-1493f6099620" name="Changes" comment="selenium framework code">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f66af9d39d0a1e7f59f259fee336b51015f3cfa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f66af9d39d0a1e7f59f259fee336b51015f3cfa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Loginerrorvalidation.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Loginerrorvalidation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/submitorder.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/submitorder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSuites/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testSuites/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
       <recent name="selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml">
+  <component name="RunManager" selected="TestNG.submit_order_Test">
     <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Framework_Design" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testSuites/ErrorvalidationTests.xml" />
@@ -130,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.submit_order_Test" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/Purchase.xml" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml" />
-        <item itemvalue="TestNG.submit_order_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740429230723</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="selenium framework code">
+      <option name="closed" value="true" />
+      <created>1740496065852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740496065852</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
