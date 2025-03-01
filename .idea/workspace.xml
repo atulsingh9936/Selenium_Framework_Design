@@ -5,13 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0886ade-9b8f-4dd8-86e8-1493f6099620" name="Changes" comment="selenium framework code">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Cucumber/ErrorValidation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Cucumber/SubmitOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Cucumber/TestNGRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/stepDefinition_Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09a5aab50cacbbaeaef1abee8e355f768f933400" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09a5aab50cacbbaeaef1abee8e355f768f933400" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bb83a4af35e54e762e07ed89879045778ce909a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bb83a4af35e54e762e07ed89879045778ce909a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f66af9d39d0a1e7f59f259fee336b51015f3cfa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f66af9d39d0a1e7f59f259fee336b51015f3cfa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30424f8f6d7c7648b7e2462aaae7c542c5634e9e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30424f8f6d7c7648b7e2462aaae7c542c5634e9e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3522493672af7eec8e869b0a51466e40acfff520" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66f15ff93ea327a9fe2feb03860de37da9f34000" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66f15ff93ea327a9fe2feb03860de37da9f34000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87265c4507858d60856dec95cbdf393720ff3959" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87265c4507858d60856dec95cbdf393720ff3959" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c85c9260cbd4e3320d859c9bfb144710292aff3f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8b2fb3948bb9654b6fd2e6aba893e5e1e7437ff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8b2fb3948bb9654b6fd2e6aba893e5e1e7437ff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf7789fafd42aa1a7fa31ff647e018698d93f45c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db648dbaad0b8e9e69fc839500fdccfa85969729" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddc7083fe83dfea4c63507b07254caf2f9f5f45f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddc7083fe83dfea4c63507b07254caf2f9f5f45f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2a3cc3212b453b5363961bd88dfd4d69c1f29bc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2a3cc3212b453b5363961bd88dfd4d69c1f29bc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/3522493672af7eec8e869b0a51466e40acfff520" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/f/cf7789fafd42aa1a7fa31ff647e018698d93f45c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db648dbaad0b8e9e69fc839500fdccfa85969729" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/Loginerrorvalidation.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Loginerrorvalidation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Producterrorvalidation.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Producterrorvalidation.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/submitorder.png" beforeDir="false" afterPath="$PROJECT_DIR$/reports/submitorder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract_components/Abstract_Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Abstract_components/Abstract_Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page_objects/Checkout_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Page_objects/Checkout_page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page_objects/ProductCatalogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Page_objects/ProductCatalogue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test_components/Base_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_components/Base_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Error_validation_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Error_validation_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSuites/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testSuites/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +83,13 @@
     "TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml.executor": "Run",
     "TestNG.Error_validation_Test.executor": "Run",
     "TestNG.Error_validation_Test.submitorder.executor": "Run",
+    "TestNG.TestNGRunner.executor": "Run",
     "TestNG.submit_order_Test.executor": "Run",
     "TestNG.submit_order_Test.submitorder.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites"
+    "last_opened_file_path": "C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -73,7 +104,7 @@
       <recent name="selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.submit_order_Test">
+  <component name="RunManager" selected="TestNG.TestNGRunner">
     <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Framework_Design" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testSuites/ErrorvalidationTests.xml" />
@@ -104,10 +135,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNGRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Framework_Design" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cucumber" />
+      <option name="MAIN_CLASS_NAME" value="Cucumber.TestNGRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -133,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestNGRunner" />
         <item itemvalue="TestNG.submit_order_Test" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/testng.xml" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/Purchase.xml" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testSuites/ErrorvalidationTests.xml" />
-        <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Selenium_Framework_Design/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740504692253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="selenium framework code">
+      <option name="closed" value="true" />
+      <created>1740506043251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740506043252</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

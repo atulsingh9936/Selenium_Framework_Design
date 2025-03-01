@@ -1,20 +1,20 @@
 
 Ô
-java:S3577"Rename class "submit_order_Test" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(¹íò8®Œ°Ó2J$b48206ba-7bad-4f5b-b673-de87fb2fec67
+java:S3577"Rename class "submit_order_Test" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(¹íò8®Œ°Ó2J$61232b78-f70c-4eb5-afd7-2a8d2c8a5e2f
 „
-java:S1854"<Remove this useless assignment to local variable "products".(¬àÁïùÿÿÿÿ8®Œ°Ó2J$2f825a98-63c6-471f-b401-ff2c23cca71b
+java:S1854"<Remove this useless assignment to local variable "products".(¬àÁïùÿÿÿÿ8®Œ°Ó2J$5138b693-af88-4333-b5a1-9f68e7f891cf
 ¯
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıï¶8¯Œ°Ó2J$f13baf4b-92a9-4123-87ee-901f5ebdfeda
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ú‰Åüÿÿÿÿ8¯Œ°Ó2J$0f155d3d-ab18-4356-b9b6-176c704da013
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıï¶8¯Œ°Ó2J$be5421d6-02e4-425c-90bf-ef01d565cd7d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ú‰Åüÿÿÿÿ8¯Œ°Ó2J$3f10a0fb-00b4-47ca-b54d-4e571306c33b
 u
-java:S1481"-Remove this unused "products" local variable.(¬àÁïùÿÿÿÿ8¯Œ°Ó2J$4f8e9027-25bb-47ad-8bea-a93c6910a0ab
-ƒ	java:S125?"<This block of commented-out lines of code should be removed.(ØÆèüÿÿÿÿ8°Œ°Ó2J$7b1ab261-47e2-46ba-a707-0a72540e65bf
-~	java:S125L"<This block of commented-out lines of code should be removed.(Ú°à¬8°Œ°Ó2J$9695271a-e0bb-42c3-8471-b710c299f9bc
+java:S1481"-Remove this unused "products" local variable.(¬àÁïùÿÿÿÿ8¯Œ°Ó2J$9d02e4bb-7e47-4439-9761-4d55a55f7384
+ƒ	java:S125?"<This block of commented-out lines of code should be removed.(ØÆèüÿÿÿÿ8°Œ°Ó2J$d9a52633-4dcf-42b8-92fa-3a808e7c5b9a
+~	java:S125L"<This block of commented-out lines of code should be removed.(Ú°à¬8°Œ°Ó2J$8a1b0718-e302-40be-8937-11c0bb626f1c
 
-java:S1128"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´8ŸÇ¤ÆÓ2J$2853e085-368f-4f0c-adea-46b03b0a3dc4
+java:S1128"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´8ŸÇ¤ÆÓ2J$365d3615-611e-4bc9-a68d-3429a246c32a
 ƒ
-java:S1128";Remove this unused import 'org.openqa.selenium.OutputType'.(Ğ³—õıÿÿÿÿ8ŸÇ¤ÆÓ2J$7a4abe3d-626c-458a-82ac-56c9468e1ea9
+java:S1128";Remove this unused import 'org.openqa.selenium.OutputType'.(Ğ³—õıÿÿÿÿ8ŸÇ¤ÆÓ2J$1195ae2a-029a-4d4a-bded-adcac8ac5364
 ˆ
-java:S1128"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ8ŸÇ¤ÆÓ2J$57a9c0d4-119c-413b-8e6d-e30a60f3b25a
+java:S1128"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ8ŸÇ¤ÆÓ2J$e6619c5e-4bd5-425c-927b-8315f1c9d54d
 l
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ŸÇ¤ÆÓ2J$7d9a1752-cb4b-43e2-94ee-f03ed4c8de6e
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ŸÇ¤ÆÓ2J$3a32254e-a678-426e-bd46-4bdba3025213

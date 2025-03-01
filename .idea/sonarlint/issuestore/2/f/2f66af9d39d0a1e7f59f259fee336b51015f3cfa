@@ -1,9 +1,6 @@
 
-€	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$0cb08be5-d03b-4663-8fe0-d61788acd032
-¥,Web:MouseEventWithoutKeyboardEquivalentCheck-"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(êí‡’8ÂàñÓ2J$af522a7d-59e2-4a69-af3a-acb4a426fa3a
-”	Web:S6847-"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(êí‡’8ÂàñÓ2J$441107ef-5115-45f7-b319-cb57ad6bad4b
-¥,Web:MouseEventWithoutKeyboardEquivalentCheck2"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(¤¥Àô8ÂàñÓ2J$c0a52203-6cba-4816-9ffa-b70a084732ef
-”	Web:S68472"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(¤¥Àô8 ÂàñÓ2J$d15582b0-e2bf-425c-acde-6ab2edb8078a
-¥,Web:MouseEventWithoutKeyboardEquivalentCheck7"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(¤áî8 ÂàñÓ2J$62be9367-f4b5-478a-91e4-f3a9c89bdd96
-”	Web:S68477"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(¤áî8 ÂàñÓ2J$990dfbf7-ca01-4e58-a5f2-702daa5751e6
-uWeb:ImgWithoutAltCheckŠ"%Add an "alt" attribute to this image.(òô8 ÂàñÓ2J$6229f0a7-4927-41f0-9829-d013450f7bf1
+€	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$083f80c2-10c2-4f64-ade2-25b7353a06b2
+,Web:MouseEventWithoutKeyboardEquivalentCheck-"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(êí‡’8¼šù’Õ2
+n	Web:S6847-"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(êí‡’8¼šù’Õ2
+,Web:MouseEventWithoutKeyboardEquivalentCheck2"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(¤áî8¼šù’Õ2
+n	Web:S68472"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(¤áî8¼šù’Õ2

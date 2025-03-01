@@ -33,11 +33,12 @@ public class Abstract_Component {
     }
 
     public void waitForWebElementToAppear(WebElement findBy){
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.visibilityOf(findBy));
     }
 
     public Cartpage goToCartPage(){
+
         cartHeader.click();
         Cartpage cartpage = new Cartpage(driver);
         return cartpage;
@@ -50,10 +51,10 @@ public class Abstract_Component {
 
     }
 
-    public  void  waitForElementToDisappear(WebElement ele) throws InterruptedException {
-        Thread.sleep(1000);
-//        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(2));
-//        wait.until(ExpectedConditions.invisibilityOf(ele));
+    public  void  waitForElementToDisappear(WebElement element) throws InterruptedException {
+       // Thread.sleep(10000);
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.invisibilityOf(element));
 
     }
 

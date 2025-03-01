@@ -5,6 +5,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -32,16 +33,19 @@ public class Base_Test {
         prop.load(fis);
       String browserName=  System.getProperty("browser")!=null? System.getProperty("browser"): prop.getProperty("browser");
      // prop.getProperty("browser");
+       // System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
 
-     if (browserName.equalsIgnoreCase("chrome")){
-         WebDriverManager.chromedriver().setup();
-         // driver = new ChromeDriver();
+     if (browserName.contains("chrome")){
          ChromeOptions options = new ChromeOptions();
-         options.addArguments("--headless");
-         options.addArguments("--no-sandbox");
-         options.addArguments("--disable-dev-shm-usage");
-         options.addArguments("--window-size=1920,1080");
+         WebDriverManager.chromedriver().setup();
+         if(browserName.contains("headless")){
+              options.addArguments("headless");
+         }
+
          driver = new ChromeDriver(options);
+         driver.manage().window().setSize(new Dimension(1440,900));
+
+
 
 
 

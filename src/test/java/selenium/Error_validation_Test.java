@@ -25,7 +25,7 @@ public class Error_validation_Test extends Base_Test {
 
         page.loginapplication("atul2591997@gmail.com", "Atul9936@");
         //page.GetErrorMessage();
-        Assert.assertEquals("Incorrect email o password.",page.GetErrorMessage());
+        Assert.assertEquals("Incorrect email or password.",page.GetErrorMessage());
    }
 
     @Test

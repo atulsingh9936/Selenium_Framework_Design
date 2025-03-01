@@ -1,10 +1,10 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»ğÁ8®ü•Ó2J$14296c86-7063-4566-8737-4ee6b00c9a64
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·÷¤¶ùÿÿÿÿ8®ü•Ó2J$d32b0013-bd77-4c94-8e3f-3bb8196f88ac
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»ğÁ8¬ŞŞÄÔ2J$6599991a-3236-4393-900d-e9aa4028dedb
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·÷¤¶ùÿÿÿÿ8¬ŞŞÄÔ2J$e513b892-616c-4a03-bf34-52e70e9d0c07
 £
-java:S1488*"`Immediately return this expression instead of assigning it to the temporary variable "cartpage".(ãÆî‰8®ü•Ó2J$5addf821-a808-4dd9-a40e-e7463019c3be
+java:S1488+"`Immediately return this expression instead of assigning it to the temporary variable "cartpage".(ãÆî‰8¬ŞŞÄÔ2J$5ec2d76b-2134-45f6-a479-1455f6633dd9
 ©
-java:S14880"aImmediately return this expression instead of assigning it to the temporary variable "orderpage".(´’ìäúÿÿÿÿ8îƒÀ–Ó2J$b8994e49-9755-495f-af2a-cd2e5cca576d
-m
-java:S11725"*Remove this unused method parameter "ele".(³úéŞ8¤®ü•Ó2J$fe6be44f-3e4c-4644-a6ae-f2bb3ce7ebbe
-ƒ	java:S1257"<This block of commented-out lines of code should be removed.(àˆµøÿÿÿÿ8¤®ü•Ó2J$25a75a47-af6b-4358-b1d1-93cc5d945246
+java:S14881"aImmediately return this expression instead of assigning it to the temporary variable "orderpage".(´’ìäúÿÿÿÿ8¬ŞŞÄÔ2J$872948f1-6aeb-4b2a-bc9b-3f8f2cdf506a
+º
+java:S11306"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(´™ùµ8ïàõÄÔ2J$9cdaa5fe-23f0-4694-8b77-b13036a54e6f
+~	java:S1257"<This block of commented-out lines of code should be removed.(ùí†Œ8ÀŞŞÄÔ2J$4149bfe2-c9e3-47a2-a700-1be90fd08759

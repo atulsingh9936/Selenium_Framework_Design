@@ -1,26 +1,26 @@
 
 ‚
-java:S1854"?Remove this useless assignment to local variable "ProductName".(Æƒÿš8—†‚ÊÓ2J$830f699c-f5ba-4235-9cd3-c095af059a03
+java:S1854"?Remove this useless assignment to local variable "ProductName".(Æƒÿš8—†‚ÊÓ2J$4f0963a3-bdd7-4daf-b483-19e8fa7dbaf2
 ´
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œ×åëüÿÿÿÿ8™†‚ÊÓ2J$c56579c7-1de5-4335-8602-dfaa730c5566
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œ×åëüÿÿÿÿ8™†‚ÊÓ2J$bb1d0445-ed58-4408-b4af-e1abef9cd49d
 ¿
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(œ×åëüÿÿÿÿ8™†‚ÊÓ2J$a42f4b98-854c-4a9e-af4c-7b90b6fc88e6
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(œ×åëüÿÿÿÿ8™†‚ÊÓ2J$ea26e61f-bab5-45ba-9a57-cd1e56d71b73
 s
-java:S1481"0Remove this unused "ProductName" local variable.(Æƒÿš8™†‚ÊÓ2J$0bd820f1-b4b7-4b74-b743-7419e61e9ac1
+java:S1481"0Remove this unused "ProductName" local variable.(Æƒÿš8™†‚ÊÓ2J$afff3b45-2e0e-4c6d-989a-4910b2fd7b14
 
-java:S3415"VSwap these 2 arguments so they are in the correct order: actual value, expected value.(˜§Éşÿÿÿÿ8š†‚ÊÓ2J$56cb9c19-c399-4836-ac40-9fea49f8d069
-~	java:S125"<This block of commented-out lines of code should be removed.(§ê 8š†‚ÊÓ2J$4f615f50-8e50-4b0e-9783-08275f1599f7
+java:S3415"VSwap these 2 arguments so they are in the correct order: actual value, expected value.(Œÿ¥­ùÿÿÿÿ8š†‚ÊÓ2J$121853d8-8b79-42e6-b071-1d28abd09869
+~	java:S125"<This block of commented-out lines of code should be removed.(§ê 8š†‚ÊÓ2J$9791147e-b04f-4614-9389-c09ef2e1aa1f
 „
-java:S1854#"<Remove this useless assignment to local variable "products".(¬àÁïùÿÿÿÿ8š†‚ÊÓ2J$e5dc9e39-8b6b-403e-87f0-9c4a63caf5c3
+java:S1854#"<Remove this useless assignment to local variable "products".(¬àÁïùÿÿÿÿ8š†‚ÊÓ2J$9c10ed85-120c-4d98-b976-a5d84d63e55a
 ®
-java:S1130 "lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(°¼çn8›†‚ÊÓ2J$7d340500-3e29-4629-85f4-2e64795f638c
+java:S1130 "lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(°¼çn8›†‚ÊÓ2J$a82c4cfa-7726-4fe5-bb92-be54663daceb
 u
-java:S1481#"-Remove this unused "products" local variable.(¬àÁïùÿÿÿÿ8›†‚ÊÓ2J$ea2ba7a3-e394-409a-9399-d00ae3bd3b1d
+java:S1481#"-Remove this unused "products" local variable.(¬àÁïùÿÿÿÿ8›†‚ÊÓ2J$9c5fbb17-0f23-431a-9ea0-1f4103da5560
 
-java:S1128"7Remove this unused import 'Page_objects.Checkout_page'.(·É¬úøÿÿÿÿ8ÖÆŸÊÓ2J$0678d98b-4853-43eb-ad57-1991de0676b2
+java:S1128"7Remove this unused import 'Page_objects.Checkout_page'.(·É¬úøÿÿÿÿ8ÖÆŸÊÓ2J$e783d6cb-6905-49e7-8740-c6ce6ad37608
 }
-java:S1128":Remove this unused import 'Page_objects.ConfirmationPage'.(Çÿà¦8ÖÆŸÊÓ2J$053c761a-adfb-471d-ac09-9b77164e6947
+java:S1128":Remove this unused import 'Page_objects.ConfirmationPage'.(Çÿà¦8ÖÆŸÊÓ2J$faf9ff98-1ef2-40f6-bfa7-ac2635f94ff2
 ‡
-java:S1128"DRemove this unused import 'com.aventstack.extentreports.ExtentTest'.(‹Ë™ä8ÖÆŸÊÓ2J$d11334e3-633b-4aa1-b768-461e9a6bd475
+java:S1128"DRemove this unused import 'com.aventstack.extentreports.ExtentTest'.(‹Ë™ä8ÖÆŸÊÓ2J$578bec91-e3a8-45c6-958a-1b1160ae821c
 ™
-java:S1128"VRemove this unused import 'com.aventstack.extentreports.reporter.ExtentSparkReporter'.(î²Ğ»8ÖÆŸÊÓ2J$f1bec2a1-b816-449c-b154-86710f878361
+java:S1128"VRemove this unused import 'com.aventstack.extentreports.reporter.ExtentSparkReporter'.(î²Ğ»8ÖÆŸÊÓ2J$9c7136c7-3741-420a-afdb-67ed5fb2cb48
