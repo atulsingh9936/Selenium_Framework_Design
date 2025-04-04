@@ -47,11 +47,8 @@ https://github.com/PramodDutta/ATB5xWebAutomationFramework/assets/1409610/1bd397
       <artifactId>log4j-api</artifactId>
       <version>3.0.0-beta2</version>
     </dependency> 
-```
-- Add log4j2.xml in the main folder -> resource
-- https://gist.github.com/PramodDutta/36ec0a2460e0ec796b7fe6b186a008b5
-- To your Code
-```
+
+
 -     private static final Logger logger = LogManager.getLogger(TestVWOLogin_PF_DM.class);
     
 file
